@@ -3,4 +3,4 @@
 
 new-featureブランチで変更
 
-update no-fast-forward
+update コンフリクト起こす
