@@ -4,4 +4,4 @@
 new-featureブランチで変更
 
 update コンフリクト起こす
-for rebase practice
+for rebase practice(change on main branch)
