@@ -4,4 +4,4 @@
 new-featureブランチで変更
 
 update コンフリクト起こす
-Git hub上で更新
+Git hub上で更新2回目
