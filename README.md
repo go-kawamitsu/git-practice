@@ -4,4 +4,4 @@
 new-featureブランチで変更
 
 update コンフリクト起こす
-Git hub上で更新
+conflictを起こすためにローカルで更新
