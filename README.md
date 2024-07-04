@@ -4,4 +4,4 @@
 new-featureブランチで変更
 
 update コンフリクト起こす
-update conflict
+Git hub上で更新
