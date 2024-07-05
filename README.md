@@ -6,3 +6,4 @@ new-featureブランチで変更
 update コンフリクト起こす
 for rebase practice(for rebase conflict)
 rebase yo
+apply no coflict
